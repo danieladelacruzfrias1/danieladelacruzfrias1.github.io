@@ -313,7 +313,7 @@ h1 {
 }
 
 .contacto button:hover {
-  background-color: black;
+  background-color: none;
   color: black;
 }
 
@@ -324,7 +324,7 @@ h1 {
 }
 
 .contacto button:hover i {
-  color: black;
+  color: white;
 }
 
 /* Pie de pagina (footer) */
@@ -371,7 +371,7 @@ footer {
 }
 
 .iconos-redes-sociales a:hover i {
-  color: black;
+  color: white;
 }
 
 .derechos-de-autor {
